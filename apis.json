@@ -1,0 +1,41 @@
+{
+    "name": "Tinysong",
+    "description": "<p>TinySong is like <a href=\"http:\/\/www.crunchbase.com\/company\/tinyurl\" title=\"TinyURL\">TinyURL<\/a> but for music. Users can search for songs online by artist or title. The site then turns these links into short links that can be sent to friends. <\/p>",
+    "image": "http:\/\/kinlane-productions.s3.amazonaws.com\/api-evangelist-site\/company\/500_logo.png",
+    "tags": [
+        "have api",
+        "social",
+        "streaming"
+    ],
+    "created": "2019-12-19",
+    "modified": "2019-12-19",
+    "url": "https:\/\/raw.githubusercontent.com\/api-evangelist\/tinysong\/master\/apis.json",
+    "specificationVersion": "0.14",
+    "apis": [
+        {
+            "name": "Tinysong",
+            "description": null,
+            "image": "http:\/\/kinlane-productions.s3.amazonaws.com\/api-evangelist-site\/company\/500_logo.png",
+            "humanURL": "http:\/\/www.tinysong.com\/api",
+            "baseURL": "",
+            "tags": [],
+            "properties": [
+                {
+                    "type": "x-postman-collecction",
+                    "url": "https:\/\/raw.githubusercontent.com\/api-evangelist\/1forge\/master\/tinysong-postman-collection.json"
+                }
+            ]
+        }
+    ],
+    "include": [],
+    "x-common": [
+        {
+            "type": "Website",
+            "url": "http:\/\/www.tinysong.com\/api"
+        },
+        {
+            "type": "Crunchbase",
+            "url": "http:\/\/www.crunchbase.com\/company\/tinysong"
+        }
+    ]
+}
